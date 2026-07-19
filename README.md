@@ -39,3 +39,7 @@ Assembly, Bitmap/Graphics, String, Collections, WinForms, Cryptography (SHA-512)
 |---------|---------|
 | EntityFramework | 6.5.1 |
 | MySql.Data | 9.1.0 |
+
+---
+
+> The Serial.cs read pattern is adapted from a [sparxeng.com blog post](https://www.sparxeng.com/blog/software/must-use-net-system-io-ports-serialport). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
