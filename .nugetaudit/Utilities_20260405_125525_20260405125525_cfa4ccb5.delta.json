@@ -1,0 +1,1437 @@
+{
+  "CurrentSnapshotId": "20260405125525_cfa4ccb5",
+  "PreviousSnapshotId": "20260404180230_bc333182",
+  "IsChanged": true,
+  "ComparisonNote": null,
+  "Changes": [
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|BOUNCYCASTLE.CRYPTOGRAPHY",
+      "ProjectName": "Utilities",
+      "PackageId": "BouncyCastle.Cryptography",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "2.3.1",
+      "CurrentResolvedVersion": "2.3.1",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "MySql.Data"
+      ],
+      "CurrentDependencyParents": [
+        "MySql.Data"
+      ],
+      "PreviousDependencyPath": [
+        "BouncyCastle.Cryptography",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "BouncyCastle.Cryptography",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.6.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.6.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS|NONE|ENTITYFRAMEWORK",
+      "ProjectName": "Utilities",
+      "PackageId": "EntityFramework",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "6.5.1",
+      "CurrentRequestedVersion": "6.5.1",
+      "TargetFrameworkMoniker": "net10.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ENTITYFRAMEWORK",
+      "ProjectName": "Utilities",
+      "PackageId": "EntityFramework",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "6.5.1",
+      "CurrentResolvedVersion": "6.5.1",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|GOOGLE.PROTOBUF",
+      "ProjectName": "Utilities",
+      "PackageId": "Google.Protobuf",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "3.26.1",
+      "CurrentResolvedVersion": "3.26.1",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "MySql.Data"
+      ],
+      "CurrentDependencyParents": [
+        "MySql.Data"
+      ],
+      "PreviousDependencyPath": [
+        "Google.Protobuf",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "Google.Protobuf",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.34.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.34.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4",
+      "ProjectName": "Utilities",
+      "PackageId": "K4os.Compression.LZ4",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "1.3.8",
+      "CurrentResolvedVersion": "1.3.8",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "K4os.Compression.LZ4.Streams"
+      ],
+      "CurrentDependencyParents": [
+        "K4os.Compression.LZ4.Streams"
+      ],
+      "PreviousDependencyPath": [
+        "K4os.Compression.LZ4",
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "K4os.Compression.LZ4",
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+      "ProjectName": "Utilities",
+      "PackageId": "K4os.Compression.LZ4.Streams",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "1.3.8",
+      "CurrentResolvedVersion": "1.3.8",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "MySql.Data"
+      ],
+      "CurrentDependencyParents": [
+        "MySql.Data"
+      ],
+      "PreviousDependencyPath": [
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.HASH.XXHASH",
+      "ProjectName": "Utilities",
+      "PackageId": "K4os.Hash.xxHash",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "1.0.8",
+      "CurrentResolvedVersion": "1.0.8",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "K4os.Compression.LZ4.Streams"
+      ],
+      "CurrentDependencyParents": [
+        "K4os.Compression.LZ4.Streams"
+      ],
+      "PreviousDependencyPath": [
+        "K4os.Hash.xxHash",
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "K4os.Hash.xxHash",
+        "K4os.Compression.LZ4.Streams",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.0.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.0.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS|NONE|MYSQL.DATA",
+      "ProjectName": "Utilities",
+      "PackageId": "MySql.Data",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "9.1.0",
+      "CurrentRequestedVersion": "9.1.0",
+      "TargetFrameworkMoniker": "net10.0-windows",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA",
+      "ProjectName": "Utilities",
+      "PackageId": "MySql.Data",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "9.1.0",
+      "CurrentResolvedVersion": "9.1.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+      "ProjectName": "Utilities",
+      "PackageId": "runtime.native.System.Data.SqlClient.sni",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "System.Data.SqlClient"
+      ],
+      "CurrentDependencyParents": [
+        "System.Data.SqlClient"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-ARM64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+      "ProjectName": "Utilities",
+      "PackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.4.0",
+      "CurrentResolvedVersion": "4.4.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+      "ProjectName": "Utilities",
+      "PackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.4.0",
+      "CurrentResolvedVersion": "4.4.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X86.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+      "ProjectName": "Utilities",
+      "PackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.4.0",
+      "CurrentResolvedVersion": "4.4.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.Data.SqlClient.sni"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.COMPONENTMODEL.ANNOTATIONS",
+      "ProjectName": "Utilities",
+      "PackageId": "System.ComponentModel.Annotations",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "5.0.0",
+      "CurrentResolvedVersion": "5.0.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "EntityFramework"
+      ],
+      "CurrentDependencyParents": [
+        "EntityFramework"
+      ],
+      "PreviousDependencyPath": [
+        "System.ComponentModel.Annotations",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "System.ComponentModel.Annotations",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.DATA.SQLCLIENT",
+      "ProjectName": "Utilities",
+      "PackageId": "System.Data.SqlClient",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.8.6",
+      "CurrentResolvedVersion": "4.8.6",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "EntityFramework"
+      ],
+      "CurrentDependencyParents": [
+        "EntityFramework"
+      ],
+      "PreviousDependencyPath": [
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "CurrentDependencyPath": [
+        "System.Data.SqlClient",
+        "EntityFramework"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ZSTDSHARP.PORT",
+      "ProjectName": "Utilities",
+      "PackageId": "ZstdSharp.Port",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "0.8.0",
+      "CurrentResolvedVersion": "0.8.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": "net10.0-windows7.0",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "MySql.Data"
+      ],
+      "CurrentDependencyParents": [
+        "MySql.Data"
+      ],
+      "PreviousDependencyPath": [
+        "ZstdSharp.Port",
+        "MySql.Data"
+      ],
+      "CurrentDependencyPath": [
+        "ZstdSharp.Port",
+        "MySql.Data"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "0.8.7",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "0.8.7",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      }
+    }
+  ],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "BouncyCastle.Cryptography",
+      "ResolvedVersion": "2.3.1",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.6.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.6.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "2.6.2",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 2.6.2."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "EntityFramework",
+      "ResolvedVersion": "6.5.1",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.5.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "Google.Protobuf",
+      "ResolvedVersion": "3.26.1",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.34.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.34.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "3.34.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 3.34.1."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "K4os.Compression.LZ4",
+      "ResolvedVersion": "1.3.8",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "K4os.Compression.LZ4.Streams",
+      "ResolvedVersion": "1.3.8",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.3.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "K4os.Hash.xxHash",
+      "ResolvedVersion": "1.0.8",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.0.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.0.8",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "MySql.Data",
+      "ResolvedVersion": "9.1.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "9.6.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 9.6.0."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Development status is now Abandoned. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Development status is now Abandoned. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Development status is now Abandoned. Remediation guidance changed."
+    },
+    {
+      "PackageId": "System.ComponentModel.Annotations",
+      "ResolvedVersion": "5.0.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": false
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "System.Data.SqlClient",
+      "ResolvedVersion": "4.8.6",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.9.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.9.1."
+      },
+      "Summary": "Development status is now Active."
+    },
+    {
+      "PackageId": "ZstdSharp.Port",
+      "ResolvedVersion": "0.8.0",
+      "DeterminedUtc": "2026-04-05T12:55:25.6039859+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "0.8.7",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Unknown",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "0.8.7",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "0.8.7",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 0.8.7."
+      },
+      "Summary": "Development status is now Active."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\bin\Debug\Utilities.dll
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\bin\Debug\Utilities.pdb
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\bin\Debug\MySql.Data.dll
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\obj\Debug\Utilities.dll
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\obj\Debug\Utilities.pdb
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\bin\Debug\EntityFramework.dll
+C:\Users\windo\OneDrive\Documents\Development\General\Utilities\obj\Debug\Utilities.csproj.Up2Date

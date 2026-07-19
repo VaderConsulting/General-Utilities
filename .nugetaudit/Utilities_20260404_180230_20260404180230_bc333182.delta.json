@@ -1,0 +1,140 @@
+{
+  "CurrentSnapshotId": "20260404180230_bc333182",
+  "PreviousSnapshotId": null,
+  "IsChanged": false,
+  "ComparisonNote": null,
+  "Changes": [],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "BouncyCastle.Cryptography",
+      "ResolvedVersion": "2.3.1",
+      "DeterminedUtc": "2026-04-04T18:02:30.1334178+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "2.6.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "2.6.2",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 2.6.2."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Google.Protobuf",
+      "ResolvedVersion": "3.26.1",
+      "DeterminedUtc": "2026-04-04T18:02:30.1334178+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.34.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "3.34.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 3.34.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "MySql.Data",
+      "ResolvedVersion": "9.1.0",
+      "DeterminedUtc": "2026-04-04T18:02:30.1334178+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "9.6.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "9.6.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 9.6.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Data.SqlClient",
+      "ResolvedVersion": "4.8.6",
+      "DeterminedUtc": "2026-04-04T18:02:30.1334178+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.9.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.9.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "ZstdSharp.Port",
+      "ResolvedVersion": "0.8.0",
+      "DeterminedUtc": "2026-04-04T18:02:30.1334178+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "0.8.7",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "0.8.7",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 0.8.7."
+      },
+      "Summary": "Attention is now required for this package version."
+    }
+  ]
+}

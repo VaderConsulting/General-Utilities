@@ -1,0 +1,690 @@
+{
+  "SnapshotId": "20260405125525_cfa4ccb5",
+  "CapturedUtc": "2026-04-05T12:55:25.6039859+00:00",
+  "NormalisedContentHash": "C380281ECFE1600AFDF76377CB6CFBEE455FCB878169D3B744487ABF0804B301",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "Utilities",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+    "SolutionKey": "EB7B27BB3FC9346F",
+    "SourceIdentity": {
+      "IdentityKey": "EB7B27BB3FC9346F",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "FAEB0CA73FC4E917",
+      "ProjectName": "Utilities",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net10.0-windows",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "BouncyCastle.Cryptography",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.3.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "BouncyCastle.Cryptography",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.6.2",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|BOUNCYCASTLE.CRYPTOGRAPHY"
+        },
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": "6.5.1",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.5.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "EntityFramework",
+          "RequestedVersion": null,
+          "ResolvedVersion": "6.5.1",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.5.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ENTITYFRAMEWORK"
+        },
+        {
+          "PackageId": "Google.Protobuf",
+          "RequestedVersion": null,
+          "ResolvedVersion": "3.26.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "Google.Protobuf",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.34.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|GOOGLE.PROTOBUF"
+        },
+        {
+          "PackageId": "K4os.Compression.LZ4",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.3.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "K4os.Compression.LZ4.Streams"
+          ],
+          "DependencyPath": [
+            "K4os.Compression.LZ4",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.3.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4"
+        },
+        {
+          "PackageId": "K4os.Compression.LZ4.Streams",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.3.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.3.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4.STREAMS"
+        },
+        {
+          "PackageId": "K4os.Hash.xxHash",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.0.8",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "K4os.Compression.LZ4.Streams"
+          ],
+          "DependencyPath": [
+            "K4os.Hash.xxHash",
+            "K4os.Compression.LZ4.Streams",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.0.8",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.HASH.XXHASH"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": "9.1.0",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "9.6.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS|NONE|MYSQL.DATA"
+        },
+        {
+          "PackageId": "MySql.Data",
+          "RequestedVersion": null,
+          "ResolvedVersion": "9.1.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "9.6.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA"
+        },
+        {
+          "PackageId": "runtime.native.System.Data.SqlClient.sni",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.7.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "System.Data.SqlClient"
+          ],
+          "DependencyPath": [
+            "runtime.native.System.Data.SqlClient.sni",
+            "System.Data.SqlClient",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.7.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "PackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.4.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "runtime.native.System.Data.SqlClient.sni"
+          ],
+          "DependencyPath": [
+            "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+            "runtime.native.System.Data.SqlClient.sni",
+            "System.Data.SqlClient",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.4.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-ARM64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "PackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.4.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "runtime.native.System.Data.SqlClient.sni"
+          ],
+          "DependencyPath": [
+            "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+            "runtime.native.System.Data.SqlClient.sni",
+            "System.Data.SqlClient",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.4.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "PackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.4.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "runtime.native.System.Data.SqlClient.sni"
+          ],
+          "DependencyPath": [
+            "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+            "runtime.native.System.Data.SqlClient.sni",
+            "System.Data.SqlClient",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.4.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X86.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "PackageId": "System.ComponentModel.Annotations",
+          "RequestedVersion": null,
+          "ResolvedVersion": "5.0.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "EntityFramework"
+          ],
+          "DependencyPath": [
+            "System.ComponentModel.Annotations",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "5.0.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": false
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.COMPONENTMODEL.ANNOTATIONS"
+        },
+        {
+          "PackageId": "System.Data.SqlClient",
+          "RequestedVersion": null,
+          "ResolvedVersion": "4.8.6",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "EntityFramework"
+          ],
+          "DependencyPath": [
+            "System.Data.SqlClient",
+            "EntityFramework"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "4.9.1",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.DATA.SQLCLIENT"
+        },
+        {
+          "PackageId": "ZstdSharp.Port",
+          "RequestedVersion": null,
+          "ResolvedVersion": "0.8.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "DependencyParents": [
+            "MySql.Data"
+          ],
+          "DependencyPath": [
+            "ZstdSharp.Port",
+            "MySql.Data"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "0.8.7",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ZSTDSHARP.PORT"
+        }
+      ],
+      "DependencyEdges": [
+        {
+          "FromPackageId": "EntityFramework",
+          "ToPackageId": "System.ComponentModel.Annotations",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ENTITYFRAMEWORK",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.COMPONENTMODEL.ANNOTATIONS"
+        },
+        {
+          "FromPackageId": "EntityFramework",
+          "ToPackageId": "System.Data.SqlClient",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ENTITYFRAMEWORK",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.DATA.SQLCLIENT"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4.Streams",
+          "ToPackageId": "K4os.Compression.LZ4",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4"
+        },
+        {
+          "FromPackageId": "K4os.Compression.LZ4.Streams",
+          "ToPackageId": "K4os.Hash.xxHash",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4.STREAMS",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.HASH.XXHASH"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "BouncyCastle.Cryptography",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|BOUNCYCASTLE.CRYPTOGRAPHY"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "Google.Protobuf",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|GOOGLE.PROTOBUF"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "K4os.Compression.LZ4.Streams",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|K4OS.COMPRESSION.LZ4.STREAMS"
+        },
+        {
+          "FromPackageId": "MySql.Data",
+          "ToPackageId": "ZstdSharp.Port",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|MYSQL.DATA",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|ZSTDSHARP.PORT"
+        },
+        {
+          "FromPackageId": "runtime.native.System.Data.SqlClient.sni",
+          "ToPackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-ARM64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "FromPackageId": "runtime.native.System.Data.SqlClient.sni",
+          "ToPackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X64.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "FromPackageId": "runtime.native.System.Data.SqlClient.sni",
+          "ToPackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.WIN-X86.RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        },
+        {
+          "FromPackageId": "System.Data.SqlClient",
+          "ToPackageId": "runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|SYSTEM.DATA.SQLCLIENT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/GENERAL/UTILITIES/UTILITIES.CSPROJ|NET10.0-WINDOWS7.0|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI"
+        }
+      ],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027BouncyCastle.Cryptography\u0027 2.3.1 is outdated. Latest compatible stable version: 2.6.2.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "BouncyCastle.Cryptography",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Google.Protobuf\u0027 3.26.1 is outdated. Latest compatible stable version: 3.34.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "Google.Protobuf",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027MySql.Data\u0027 9.1.0 is outdated. Latest compatible stable version: 9.6.0.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "MySql.Data",
+          "TargetFrameworkMoniker": "net10.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027MySql.Data\u0027 9.1.0 is outdated. Latest compatible stable version: 9.6.0.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "MySql.Data",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027runtime.win-arm64.runtime.native.System.Data.SqlClient.sni\u0027 4.4.0: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027runtime.win-x64.runtime.native.System.Data.SqlClient.sni\u0027 4.4.0: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027runtime.win-x86.runtime.native.System.Data.SqlClient.sni\u0027 4.4.0: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Data.SqlClient\u0027 4.8.6 is outdated. Latest compatible stable version: 4.9.1.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "System.Data.SqlClient",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027ZstdSharp.Port\u0027 0.8.0 is outdated. Latest compatible stable version: 0.8.7.",
+          "ProjectName": "Utilities",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\General\\Utilities\\Utilities.csproj",
+          "PackageId": "ZstdSharp.Port",
+          "TargetFrameworkMoniker": "net10.0-windows7.0",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Attention required: 9 package diagnostics are warnings."
+  ]
+}
