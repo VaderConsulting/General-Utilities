@@ -1,9 +1,8 @@
-﻿# Utilities
-
-**Source last updated:** 2022-05-09
+# Utilities
 
 A broad-purpose Windows utility class library targeting .NET 10.0 (Windows). Collects reusable components - custom controls, extension methods, serial communication helpers, registry wrappers, and data-transformation utilities.
 
+**Source last updated:** 2022-05-09
 **Initiated:** 2021-04-09 · **Framework:** .NET 10.0 Windows
 
 ---
