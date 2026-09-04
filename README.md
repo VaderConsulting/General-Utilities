@@ -45,3 +45,8 @@ Assembly, Bitmap/Graphics, String, Collections, WinForms, Cryptography (SHA-512)
 ---
 
 > The Serial.cs read pattern is adapted from a [sparxeng.com blog post](https://www.sparxeng.com/blog/software/must-use-net-system-io-ports-serialport). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Requirements
+
+- .NET 10.0
+
